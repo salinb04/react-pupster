@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/pages/style.css"],"names":[],"mappings":"AAAA,OACE,aAAc,CACd,YACF","file":"main.4ff91669.chunk.css","sourcesContent":[".image {\n  display: block;\n  margin: 100px;\n}"]}

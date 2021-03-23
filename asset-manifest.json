@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-pupster/static/css/main.4ff91669.chunk.css",
+    "main.js": "/react-pupster/static/js/main.ca3f029e.chunk.js",
+    "main.js.map": "/react-pupster/static/js/main.ca3f029e.chunk.js.map",
+    "runtime-main.js": "/react-pupster/static/js/runtime-main.29949bae.js",
+    "runtime-main.js.map": "/react-pupster/static/js/runtime-main.29949bae.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/react-pupster/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.c51bb186.chunk.js": "/react-pupster/static/js/2.c51bb186.chunk.js",
+    "static/js/2.c51bb186.chunk.js.map": "/react-pupster/static/js/2.c51bb186.chunk.js.map",
+    "index.html": "/react-pupster/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/react-pupster/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.4ff91669.chunk.css.map": "/react-pupster/static/css/main.4ff91669.chunk.css.map",
+    "static/js/2.c51bb186.chunk.js.LICENSE.txt": "/react-pupster/static/js/2.c51bb186.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29949bae.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.c51bb186.chunk.js",
+    "static/css/main.4ff91669.chunk.css",
+    "static/js/main.ca3f029e.chunk.js"
+  ]
+}
