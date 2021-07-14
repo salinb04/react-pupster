@@ -16,16 +16,16 @@ function NavTabs() {
       </li>
       <li className="nav-item">
         <Link
-          to="/discover"
-          className={location.pathname === "/discover" ? "nav-link active" : "nav-link"}
+          to="/Discover"
+          className={location.pathname === "/Discover" ? "nav-link active" : "nav-link"}
         >
           Discover
         </Link>
       </li>
       <li className="nav-item">
         <Link
-          to="/search"
-          className={location.pathname === "/search" ? "nav-link active" : "nav-link"}
+          to="/Search"
+          className={location.pathname === "/Search" ? "nav-link active" : "nav-link"}
         >
           Search
         </Link>
