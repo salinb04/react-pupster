@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-pupster/static/css/main.4ff91669.chunk.css",
-    "main.js": "/react-pupster/static/js/main.007b620c.chunk.js",
-    "main.js.map": "/react-pupster/static/js/main.007b620c.chunk.js.map",
+    "main.js": "/react-pupster/static/js/main.f99862a5.chunk.js",
+    "main.js.map": "/react-pupster/static/js/main.f99862a5.chunk.js.map",
     "runtime-main.js": "/react-pupster/static/js/runtime-main.29949bae.js",
     "runtime-main.js.map": "/react-pupster/static/js/runtime-main.29949bae.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/react-pupster/static/css/2.4c97ca4f.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.e1746d56.chunk.js",
     "static/css/main.4ff91669.chunk.css",
-    "static/js/main.007b620c.chunk.js"
+    "static/js/main.f99862a5.chunk.js"
   ]
 }
