@@ -11,8 +11,8 @@ import "bootstrap/dist/css/bootstrap.min.css";
 const App = () => {
   return (
       <HashRouter>
+        <NavTabs />
         <Switch>
-          <NavTabs />
           <Route exact path="/" component={About} />
           <Route exact path="/Discover" component={Discover} />
           <Route exact path="/Search" component={Search} />
